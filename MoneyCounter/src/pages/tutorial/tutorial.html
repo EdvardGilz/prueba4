@@ -1,0 +1,51 @@
+<!--
+  Generated template for the Tutorial page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Tutorial</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+  
+  <ion-slides [options]="mySlideOptions">
+  
+    <ion-slide>
+      <img src="assets/images/tutorial1.gif"/>
+    </ion-slide>
+    <ion-slide>
+      <img src="assets/images/tutorial2.gif"/>
+    </ion-slide>
+    <ion-slide>
+      <img src="assets/images/tutorial3.gif"/>
+    </ion-slide>
+    <ion-slide>
+      <img src="assets/images/tutorial4.gif"/>
+    </ion-slide>
+    <ion-slide>
+      <img src="assets/images/tutorial5.gif"/>
+    </ion-slide>
+    <ion-slide>
+      <ion-row>
+        <ion-col>
+          <img src="assets/images/tutorial6.gif"/>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <button ion-button (click)="goToHome()">Empezar!!</button>
+        </ion-col>
+      </ion-row>
+      
+    </ion-slide>
+    
+  </ion-slides>
+  
+</ion-content>
