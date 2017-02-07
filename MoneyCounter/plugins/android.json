@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.bixnia.moneycounter"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.bixnia.moneycounter"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.bixnia.moneycounter"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.bixnia.moneycounter"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.bixnia.moneycounter"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "com.bixnia.moneycounter"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "com.bixnia.moneycounter"
+        }
+    }
+}

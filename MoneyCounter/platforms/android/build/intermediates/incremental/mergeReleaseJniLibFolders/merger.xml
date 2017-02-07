@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/libs"><file name="cordova-generic-ad.jar" path="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/libs/cordova-generic-ad.jar"/></source></dataSet><dataSet config="release"><source path="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/src/release/jniLibs"/></dataSet></merger>

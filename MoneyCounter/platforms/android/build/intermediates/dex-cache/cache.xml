@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_1c664d55dabbdcac103a4e4077f7d87cdb1cdeca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/libs/cordova-generic-ad.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ddc99d9a0bfde0e34e8878f735cedd9cfcf7b02">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/cordova-generic-ad_e46d4abe875c31fb57f6f74ba7f3629c766c775e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_b83c096647bf96e28864f9ff899b336c034394c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_4d741d881379ce063d4efafe4b0b8b75eedccda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_92988d8ac496e03bd5b99ff0676699c2dff3ddf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_3c919487cb15d1577e28e046d015867e9df3baa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_fa1c3e674895d4941610ea91b2d1e20f3d743ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_908cccdc916a16c61d7f7fdfe30af22ac2594ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2df8261f61b696b80468d90f4665f0d83b90112e">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-unspecified-release_405bf72f42284b9922dea53dfd3355c968766b60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_4bd48a3724ca1ce21111faf3f6e8ad76ab67d907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_3f888264a523ea66bd624fbf0622dc708972829c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="79d68b70e2f02123c5a1205261f8c9cc038870de">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_b28881af8bcf0147fe46ec98cb2aac81ee84bcbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/eduardogiles/MEGA/apps/MoneyCounter/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_bb8301881da6ceefeb421b3d46c708611882bf47.jar" />
+    </item>
+
+</items>
